@@ -1,4 +1,4 @@
-# An model for the avascular phase of tumoral growth
+# A model for the avascular phase of tumoral growth
 
 A work from 06/2016 by Charles Gaydon and Hélio Wang.
 
