@@ -48,4 +48,5 @@ For this last part, I implemented a boolean regulation network whose definition 
 > "At the extracellular scale, the model considers diffusion, consumption, and production of nutrients, metabolites, growth promoters, and inhibitors.""
 
 [1] : Jiang et al (2005) - A Multiscale Model for Avascular Tumor Growth
+
 [2] : Gatenbi & Gawlinski (1996) - A Reaction-DiffusionModel of Cancer Invasion
